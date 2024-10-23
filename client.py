@@ -1,10 +1,11 @@
-import _socket
+import os
 import json
 import time
+import _socket
 import requests
-from dotenv import load_dotenv
-import os
 
+from dotenv import load_dotenv
+from motion_control import control_transports
 
 load_dotenv()
 api_token = os.getenv('API_TOKEN')
