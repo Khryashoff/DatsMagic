@@ -1,13 +1,14 @@
-import os
 import json
+import os
 import time
+
 import _socket
 import requests
+from dotenv import load_dotenv
 
 from logger import log
-from dotenv import load_dotenv
+from map_render import draw_transport_actions, get_map
 from motion_control import control_transports
-from map_render import get_map, draw_transport_actions
 
 load_dotenv()
 api_token = os.getenv('API_TOKEN')
