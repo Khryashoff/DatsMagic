@@ -6,6 +6,7 @@ import requests
 
 from dotenv import load_dotenv
 from motion_control import control_transports
+from map_render import get_map, draw_transport_actions
 
 load_dotenv()
 api_token = os.getenv('API_TOKEN')
@@ -117,3 +118,140 @@ class RewindClient():
 
     def end_frame(self):
         self._send({'type': 'end'})
+
+
+# Создание экземпляра клиента
+client = RewindClient()
+
+USE_TEST_SERVER = False
+
+if USE_TEST_SERVER:
+    URL_ROUND = 'https://games-test.datsteam.dev/rounds/magcarp'
+    URL_MOVE = 'https://games-test.datsteam.dev/play/magcarp/player/move'
+else:
+    URL_ROUND = 'https://games.datsteam.dev/rounds/magcarp'
+    URL_MOVE = 'https://games.datsteam.dev/play/magcarp/player/move'
+
+
+def fetch_rounds():
+    """
+    Запрашивает данные раундов с внешнего API.
+
+    Отправляет GET-запрос на указанный URL для получения данных о раундах игры.
+    В случае успешного запроса возвращает данные в формате JSON,
+    при ошибке печатает сообщение об ошибке и возвращает None.
+
+    Возвращает:
+    dict: Данные раундов в формате JSON или None в случае ошибки.
+    """
+    try:
+        response = requests.get(URL_ROUND, headers={'X-Auth-Token': api_token})
+        response.raise_for_status()
+        return response.json()
+    except requests.RequestException as e:
+        print(f"Ошибка запроса данных карты: {e}")
+        return None
+
+
+def fetch_map_data(transports):
+    """
+    Отправляет данные о транспортах на сервер и
+    получаетобновленную информацию о карте.
+
+    Отправляет POST-запрос на API для обновления данных о
+    транспортах на основе их текущих действий.
+    В случае успешного запроса возвращает обновленные данные карты в
+    формате JSON, при возникновении HTTP-ошибки печатает сообщение и
+    тело ответа, и возвращает None.
+
+    Параметры:
+    transports (list): Список данных о транспортах.
+
+    Возвращает:
+    dict: Обновленные данные карты в формате JSON или None в случае ошибки.
+    """
+    try:
+        data = {'transports': transports}
+        response = requests.post(
+            URL_MOVE, json=data, headers={'X-Auth-Token': api_token}
+            )
+        response.raise_for_status()
+        return response.json()
+    except requests.HTTPError as e:
+        print(f"HTTP ошибка: {e}")
+        print(f"Тело ответа сервера: {response.text}")
+        return None
+
+
+def fetch_map_data_mock(transports):
+    """
+    Загружает данные карты из локального файла mock.json для тестирования.
+
+    Открывает локальный файл mock.json и загружает данные карты в формате JSON.
+    Используется в тестовых целях, чтобы не делать запросы к реальному API.
+
+    Параметры:
+    transports (list): Список данных о транспортах.
+
+    Возвращает:
+    dict: Данные карты, загруженные из mock.json.
+    """
+    with open('./mock.json', 'r') as file:
+        map_data = json.load(file)
+        return map_data
+
+
+def main():
+    """
+    Основной цикл программы для управления транспортами и обновления карты.
+
+    В цикле запрашивает данные карты, управляет
+    транспортами и выводит действия на экран.
+    Цикл продолжается до тех пор, пока не будет
+    прерван пользователем (KeyboardInterrupt).
+    Каждую итерацию программа рассчитывает действия транспортов,
+    обновляет данные карты и выводит их.
+    Прерывается с обработкой ошибок и закрытием сокета клиента.
+
+    Исключения:
+    KeyboardInterrupt: Останавливает цикл при нажатии Ctrl+C.
+    Exception: Обрабатывает все остальные исключения,
+    печатает сообщение об ошибке.
+    """
+    transports = []
+    tick = 0
+    try:
+        while True:
+            start = time.time()
+            response = fetch_map_data(transports)
+
+            # Установка постоянных опций для клиента
+            client.set_options(permanent=True)
+            client.rectangle(
+                0, 0, response["mapSize"]["x"], response["mapSize"]["y"],
+                client.GREEN
+                )
+            client.set_options(permanent=False)
+
+            # Получение и отображение карты
+            get_map(client, response)
+            transports = control_transports(response)
+
+            # Отрисовка действий транспорта
+            draw_transport_actions(client, response, transports)
+
+            tick += 1
+            time.sleep(0.1)
+            end = time.time()
+            print(f'tick time: {end - start}')
+    except KeyboardInterrupt:
+        print("Клиент остановлен пользователем.")
+    except Exception as e:
+        print(f"Произошла ошибка: {e}")
+    finally:
+        # Закрытие сокета клиента
+        client._socket.close()
+
+
+if __name__ == "__main__":
+    main()

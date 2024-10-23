@@ -1,0 +1,3239 @@
+{
+    "mapSize": {
+      "x": 9000,
+      "y": 9000
+    },
+    "name": "Barrel of Bullets",
+    "points": 170,
+    "anomalies": [
+      {
+        "x": 7813,
+        "y": 7474,
+        "id": "8bed400b-b7df-45c3-a5f3-e2205ff50f42",
+        "radius": 34.66,
+        "effectiveRadius": 1051.39,
+        "strength": -920.0,
+        "velocity": {
+          "x": 28.89,
+          "y": -47.57
+        }
+      },
+      {
+        "x": 6931,
+        "y": 1641,
+        "id": "141aa410-d50f-4e55-b6ee-aee694227e00",
+        "radius": 35.51,
+        "effectiveRadius": 1091.59,
+        "strength": 945.0,
+        "velocity": {
+          "x": 44.34,
+          "y": 66.59
+        }
+      },
+      {
+        "x": 1384,
+        "y": 9497,
+        "id": "da1cf0d0-9f60-4963-badf-19cda396509a",
+        "radius": 55.8,
+        "effectiveRadius": 1775.91,
+        "strength": -1013.0,
+        "velocity": {
+          "x": -44.46,
+          "y": -51.55
+        }
+      },
+      {
+        "x": -198,
+        "y": 5370,
+        "id": "0f66331a-4b26-4517-a64b-4bc538303574",
+        "radius": 53.0,
+        "effectiveRadius": 1618.93,
+        "strength": 933.0,
+        "velocity": {
+          "x": -25.9,
+          "y": 73.22
+        }
+      },
+      {
+        "x": 3197,
+        "y": 6586,
+        "id": "a161c85e-3c60-4c57-b741-e8c8c21869d6",
+        "radius": 50.56,
+        "effectiveRadius": 1530.32,
+        "strength": 916.0,
+        "velocity": {
+          "x": 60.57,
+          "y": 52.26
+        }
+      },
+      {
+        "x": 9504,
+        "y": 753,
+        "id": "74e0c2ce-0226-4e4c-8df9-4c5d03f09a39",
+        "radius": 53.37,
+        "effectiveRadius": 1629.24,
+        "strength": 932.0,
+        "velocity": {
+          "x": 56.05,
+          "y": -26.97
+        }
+      },
+      {
+        "x": -957,
+        "y": 5742,
+        "id": "635cc21e-a7bf-4b97-99dc-ff3204cccc49",
+        "radius": 51.78,
+        "effectiveRadius": 1599.27,
+        "strength": -954.0,
+        "velocity": {
+          "x": -41.79,
+          "y": 60.25
+        }
+      },
+      {
+        "x": 4273,
+        "y": 6390,
+        "id": "5ad10270-b95c-4f0e-8e06-774b8d53495d",
+        "radius": 51.19,
+        "effectiveRadius": 1697.05,
+        "strength": -1099.0,
+        "velocity": {
+          "x": 55.29,
+          "y": 35.41
+        }
+      },
+      {
+        "x": 3171,
+        "y": 6591,
+        "id": "f84bc82c-ba1f-4599-9bec-dcaecf100da1",
+        "radius": 34.57,
+        "effectiveRadius": 1103.15,
+        "strength": 1018.0,
+        "velocity": {
+          "x": -53.31,
+          "y": -58.92
+        }
+      },
+      {
+        "x": 6804,
+        "y": -1008,
+        "id": "cc1b6a22-87dd-480d-adab-a605dfd1c124",
+        "radius": 38.22,
+        "effectiveRadius": 1161.65,
+        "strength": 924.0,
+        "velocity": {
+          "x": 43.13,
+          "y": 44.35
+        }
+      },
+      {
+        "x": 552,
+        "y": 2854,
+        "id": "83fffc43-b4c6-41f1-8cbb-190571bc414a",
+        "radius": 31.33,
+        "effectiveRadius": 1007.31,
+        "strength": 1034.0,
+        "velocity": {
+          "x": 40.89,
+          "y": 2.91
+        }
+      },
+      {
+        "x": 4246,
+        "y": 10949,
+        "id": "303fd59e-1367-4020-bb07-59194e099ad5",
+        "radius": 53.21,
+        "effectiveRadius": 3454.7,
+        "strength": -4216.0,
+        "velocity": {
+          "x": -43.16,
+          "y": -67.36
+        }
+      },
+      {
+        "x": -1027,
+        "y": 3542,
+        "id": "568f8530-c943-4cd4-9dba-f9eca4ee855c",
+        "radius": 38.52,
+        "effectiveRadius": 1169.63,
+        "strength": 922.0,
+        "velocity": {
+          "x": 57.92,
+          "y": 55.18
+        }
+      },
+      {
+        "x": 1437,
+        "y": 2074,
+        "id": "c195a9ac-8e67-4fd3-9a9e-e2cd9e719cc3",
+        "radius": 50.25,
+        "effectiveRadius": 1581.18,
+        "strength": -990.0,
+        "velocity": {
+          "x": -47.09,
+          "y": 52.79
+        }
+      },
+      {
+        "x": 6752,
+        "y": 8130,
+        "id": "2966e57a-1639-4108-8884-ec453029de73",
+        "radius": 31.0,
+        "effectiveRadius": 985.33,
+        "strength": -1010.0,
+        "velocity": {
+          "x": -51.04,
+          "y": 46.67
+        }
+      },
+      {
+        "x": 5645,
+        "y": 5556,
+        "id": "60cad529-e974-4648-8cab-01e0034170f9",
+        "radius": 41.74,
+        "effectiveRadius": 1327.33,
+        "strength": 1011.0,
+        "velocity": {
+          "x": -56.07,
+          "y": 21.16
+        }
+      },
+      {
+        "x": 5056,
+        "y": 5962,
+        "id": "88f6095e-ac2a-4435-a863-806c3f08f2a0",
+        "radius": 31.47,
+        "effectiveRadius": 970.38,
+        "strength": -951.0,
+        "velocity": {
+          "x": 44.88,
+          "y": 0.07
+        }
+      },
+      {
+        "x": 3137,
+        "y": 6619,
+        "id": "d18c6516-52be-4fe0-9345-88d2860eccad",
+        "radius": 33.37,
+        "effectiveRadius": 1089.68,
+        "strength": -1066.0,
+        "velocity": {
+          "x": 3.1,
+          "y": -77.72
+        }
+      },
+      {
+        "x": 9727,
+        "y": 4395,
+        "id": "1a91a359-4f9d-4d49-ba6d-8c76d15d4f1a",
+        "radius": 34.87,
+        "effectiveRadius": 1106.09,
+        "strength": -1006.0,
+        "velocity": {
+          "x": 23.43,
+          "y": 40.84
+        }
+      },
+      {
+        "x": 43,
+        "y": 9313,
+        "id": "1b9ef469-bb2b-4249-b27d-9570eaf6e5c3",
+        "radius": 48.98,
+        "effectiveRadius": 1503.15,
+        "strength": 942.0,
+        "velocity": {
+          "x": -15.32,
+          "y": 47.3
+        }
+      },
+      {
+        "x": 2572,
+        "y": 2817,
+        "id": "ab22ba5a-a8c8-445c-93a2-339de98e0e33",
+        "radius": 56.14,
+        "effectiveRadius": 1792.2,
+        "strength": 1019.0,
+        "velocity": {
+          "x": -31.51,
+          "y": -60.44
+        }
+      },
+      {
+        "x": 2900,
+        "y": 1886,
+        "id": "388c15f2-842b-4642-a2f9-c59228c4cffd",
+        "radius": 41.47,
+        "effectiveRadius": 1374.88,
+        "strength": -1099.0,
+        "velocity": {
+          "x": -21.2,
+          "y": -70.06
+        }
+      },
+      {
+        "x": -814,
+        "y": 6972,
+        "id": "639a3de1-e84d-461b-a754-38618fe9bcac",
+        "radius": 38.85,
+        "effectiveRadius": 1203.7,
+        "strength": 960.0,
+        "velocity": {
+          "x": -48.12,
+          "y": 54.07
+        }
+      },
+      {
+        "x": 8729,
+        "y": 3174,
+        "id": "b40a7971-7d39-43a9-ac1c-c7d365bc4eca",
+        "radius": 62.79,
+        "effectiveRadius": 62.79,
+        "strength": 0.0,
+        "velocity": {
+          "x": -56.97,
+          "y": -43.15
+        }
+      },
+      {
+        "x": 7038,
+        "y": 6565,
+        "id": "7b4f7ee8-fdcc-4c9b-bf76-5962ca0e74d4",
+        "radius": 34.8,
+        "effectiveRadius": 1101.69,
+        "strength": 1002.0,
+        "velocity": {
+          "x": 10.71,
+          "y": 50.63
+        }
+      },
+      {
+        "x": 2679,
+        "y": -850,
+        "id": "d55812cf-e918-4ba2-ae05-602e67be7d82",
+        "radius": 51.96,
+        "effectiveRadius": 1660.35,
+        "strength": -1021.0,
+        "velocity": {
+          "x": 60.15,
+          "y": -52.74
+        }
+      },
+      {
+        "x": 7896,
+        "y": 3149,
+        "id": "c5f66936-a823-4375-8dff-0da0e39394c3",
+        "radius": 54.91,
+        "effectiveRadius": 1808.79,
+        "strength": -1085.0,
+        "velocity": {
+          "x": -57.61,
+          "y": -55.5
+        }
+      },
+      {
+        "x": 5432,
+        "y": 8061,
+        "id": "ee605a75-b783-4aaf-9aa3-6a308fdbe49e",
+        "radius": 61.75,
+        "effectiveRadius": 61.75,
+        "strength": 0.0,
+        "velocity": {
+          "x": 47.79,
+          "y": 26.72
+        }
+      },
+      {
+        "x": 9956,
+        "y": 5261,
+        "id": "14c00eb2-53f5-4012-809c-4f771eabddb7",
+        "radius": 42.09,
+        "effectiveRadius": 1331.72,
+        "strength": 1001.0,
+        "velocity": {
+          "x": -70.13,
+          "y": -38.49
+        }
+      },
+      {
+        "x": 9188,
+        "y": 5697,
+        "id": "6f2ef5c3-10f4-4d4a-8336-a56aecd11f31",
+        "radius": 53.41,
+        "effectiveRadius": 1628.03,
+        "strength": 929.0,
+        "velocity": {
+          "x": 43.18,
+          "y": 52.01
+        }
+      },
+      {
+        "x": 1959,
+        "y": 386,
+        "id": "ea5451dd-af90-46dd-8157-91ab83c17f19",
+        "radius": 48.36,
+        "effectiveRadius": 1483.47,
+        "strength": -941.0,
+        "velocity": {
+          "x": -39.23,
+          "y": 48.63
+        }
+      },
+      {
+        "x": -1094,
+        "y": 5268,
+        "id": "09c5f936-6416-4526-a258-cd299866e1ff",
+        "radius": 36.69,
+        "effectiveRadius": 1213.64,
+        "strength": -1094.0,
+        "velocity": {
+          "x": -31.03,
+          "y": 42.9
+        }
+      },
+      {
+        "x": 5748,
+        "y": -169,
+        "id": "443ea4f6-2d12-409e-8329-ef26c4ee18a2",
+        "radius": 45.62,
+        "effectiveRadius": 1409.86,
+        "strength": 955.0,
+        "velocity": {
+          "x": -60.73,
+          "y": -38.38
+        }
+      },
+      {
+        "x": 4498,
+        "y": 2194,
+        "id": "b3be1209-48c9-4dc6-8b9a-64d10a371d87",
+        "radius": 59.08,
+        "effectiveRadius": 1845.59,
+        "strength": 976.0,
+        "velocity": {
+          "x": 3.01,
+          "y": -69.46
+        }
+      },
+      {
+        "x": 3452,
+        "y": 5123,
+        "id": "8a0c600b-2465-4c00-9ce2-cd758bdddd60",
+        "radius": 45.13,
+        "effectiveRadius": 1434.97,
+        "strength": -1011.0,
+        "velocity": {
+          "x": 45.74,
+          "y": -9.21
+        }
+      }
+    ],
+    "transports": [
+      {
+        "x": 6309,
+        "y": 6785,
+        "id": "750cfc83dbd946f807b789e6b234458b2c657742",
+        "velocity": {
+          "x": -20,
+          "y": -20
+        },
+        "selfAcceleration": {
+          "x": 0,
+          "y": 0
+        },
+        "anomalyAcceleration": {
+          "x": -20,
+          "y": 20
+        },
+        "health": 100,
+        "status": "alive",
+        "deathCount": 1,
+        "shieldLeftMs": 0,
+        "shieldCooldownMs": 0,
+        "attackCooldownMs": 0
+      },
+      {
+        "x": 8846,
+        "y": 5169,
+        "id": "c81a26b822f3ff3c02ce2e89bf39a8fda1c52d62",
+        "velocity": {
+          "x": 0.07,
+          "y": 0.07
+        },
+        "selfAcceleration": {
+          "x": 0,
+          "y": 0
+        },
+        "anomalyAcceleration": {
+          "x": 1.98,
+          "y": 1.88
+        },
+        "health": 100,
+        "status": "alive",
+        "deathCount": 1,
+        "shieldLeftMs": 0,
+        "shieldCooldownMs": 0,
+        "attackCooldownMs": 0
+      },
+      {
+        "x": 5356,
+        "y": 6809,
+        "id": "f6866a076ea018d5332dacdcc60afab01b536631",
+        "velocity": {
+          "x": 0.05,
+          "y": 0.03
+        },
+        "selfAcceleration": {
+          "x": 0,
+          "y": 0
+        },
+        "anomalyAcceleration": {
+          "x": 1.35,
+          "y": 0.78
+        },
+        "health": 100,
+        "status": "alive",
+        "deathCount": 1,
+        "shieldLeftMs": 0,
+        "shieldCooldownMs": 0,
+        "attackCooldownMs": 0
+      },
+      {
+        "x": 6880,
+        "y": 3622,
+        "id": "5f548a7fddf7f696f16a30bfb35ef630db842a0d",
+        "velocity": {
+          "x": -0.03,
+          "y": 0.01
+        },
+        "selfAcceleration": {
+          "x": 0,
+          "y": 0
+        },
+        "anomalyAcceleration": {
+          "x": -0.85,
+          "y": 0.4
+        },
+        "health": 100,
+        "status": "alive",
+        "deathCount": 1,
+        "shieldLeftMs": 0,
+        "shieldCooldownMs": 0,
+        "attackCooldownMs": 0
+      },
+      {
+        "x": 1784,
+        "y": 8677,
+        "id": "b6bb6b37f27ae9b09b25b957a991e1f8cd7c5ba6",
+        "velocity": {
+          "x": -0.02,
+          "y": -0.08
+        },
+        "selfAcceleration": {
+          "x": 0,
+          "y": 0
+        },
+        "anomalyAcceleration": {
+          "x": -0.62,
+          "y": -2.19
+        },
+        "health": 100,
+        "status": "alive",
+        "deathCount": 1,
+        "shieldLeftMs": 0,
+        "shieldCooldownMs": 0,
+        "attackCooldownMs": 0
+      }
+    ],
+    "enemies": [
+      {
+        "x": 1331,
+        "y": 8327,
+        "velocity": {
+          "x": -11.25,
+          "y": -3
+        },
+        "health": 100,
+        "status": "alive",
+        "killBounty": 24,
+        "shieldLeftMs": 0
+      },
+      {
+        "x": 6048,
+        "y": 6434,
+        "velocity": {
+          "x": 61.57,
+          "y": -0.89
+        },
+        "health": 100,
+        "status": "alive",
+        "killBounty": 14,
+        "shieldLeftMs": 0
+      },
+      {
+        "x": 6056,
+        "y": 6345,
+        "velocity": {
+          "x": 12.42,
+          "y": -16.14
+        },
+        "health": 100,
+        "status": "alive",
+        "killBounty": 0,
+        "shieldLeftMs": 0
+      },
+      {
+        "x": 6103,
+        "y": 7129,
+        "velocity": {
+          "x": 89.48,
+          "y": 7.98
+        },
+        "health": 100,
+        "status": "alive",
+        "killBounty": 47,
+        "shieldLeftMs": 0
+      },
+      {
+        "x": 5423,
+        "y": 6653,
+        "velocity": {
+          "x": 13.58,
+          "y": 6.72
+        },
+        "health": 100,
+        "status": "alive",
+        "killBounty": 0,
+        "shieldLeftMs": 0
+      },
+      {
+        "x": 5032,
+        "y": 6708,
+        "velocity": {
+          "x": 5.03,
+          "y": 17.55
+        },
+        "health": 70,
+        "status": "alive",
+        "killBounty": 8,
+        "shieldLeftMs": 0
+      },
+      {
+        "x": 8711,
+        "y": 5411,
+        "velocity": {
+          "x": 51.44,
+          "y": 97.23
+        },
+        "health": 100,
+        "status": "alive",
+        "killBounty": 20,
+        "shieldLeftMs": 0
+      },
+      {
+        "x": 6681,
+        "y": 3422,
+        "velocity": {
+          "x": 1.32,
+          "y": 2.65
+        },
+        "health": 100,
+        "status": "alive",
+        "killBounty": 14,
+        "shieldLeftMs": 0
+      }
+    ],
+    "wantedList": [],
+    "bounties": [
+      {
+        "x": 6438,
+        "y": 6959,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 8703,
+        "y": 5582,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 6377,
+        "y": 3831,
+        "points": 33,
+        "radius": 5
+      },
+      {
+        "x": 6630,
+        "y": 3665,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 1964,
+        "y": 8208,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 1530,
+        "y": 8468,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 6557,
+        "y": 4127,
+        "points": 31,
+        "radius": 5
+      },
+      {
+        "x": 8619,
+        "y": 5116,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 8843,
+        "y": 5331,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1682,
+        "y": 8773,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 4805,
+        "y": 6797,
+        "points": 36,
+        "radius": 5
+      },
+      {
+        "x": 1671,
+        "y": 8580,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 5422,
+        "y": 6692,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 8729,
+        "y": 5606,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8883,
+        "y": 4981,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6074,
+        "y": 7011,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 6381,
+        "y": 3890,
+        "points": 32,
+        "radius": 5
+      },
+      {
+        "x": 6281,
+        "y": 7147,
+        "points": 15,
+        "radius": 5
+      },
+      {
+        "x": 5682,
+        "y": 7197,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 8423,
+        "y": 5505,
+        "points": 14,
+        "radius": 5
+      },
+      {
+        "x": 5283,
+        "y": 6753,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 1515,
+        "y": 8760,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 5339,
+        "y": 6557,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 5416,
+        "y": 6982,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 6210,
+        "y": 7045,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 1966,
+        "y": 8446,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1853,
+        "y": 8575,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6045,
+        "y": 6704,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 6716,
+        "y": 7197,
+        "points": 15,
+        "radius": 5
+      },
+      {
+        "x": 6838,
+        "y": 6805,
+        "points": 15,
+        "radius": 5
+      },
+      {
+        "x": 8827,
+        "y": 5013,
+        "points": 11,
+        "radius": 5
+      },
+      {
+        "x": 1833,
+        "y": 8155,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8726,
+        "y": 5142,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 6343,
+        "y": 4095,
+        "points": 28,
+        "radius": 5
+      },
+      {
+        "x": 6725,
+        "y": 6647,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 1928,
+        "y": 8318,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6761,
+        "y": 7024,
+        "points": 16,
+        "radius": 5
+      },
+      {
+        "x": 6699,
+        "y": 6694,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 6435,
+        "y": 3816,
+        "points": 31,
+        "radius": 5
+      },
+      {
+        "x": 8750,
+        "y": 4923,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 7131,
+        "y": 3775,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 7096,
+        "y": 3936,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 5327,
+        "y": 6671,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 1414,
+        "y": 8204,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 5634,
+        "y": 6668,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 5494,
+        "y": 6951,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 1251,
+        "y": 8223,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6096,
+        "y": 6393,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 8584,
+        "y": 5340,
+        "points": 10,
+        "radius": 5
+      },
+      {
+        "x": 1553,
+        "y": 8749,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 5601,
+        "y": 7039,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 4807,
+        "y": 7085,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 5185,
+        "y": 7085,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 1313,
+        "y": 8466,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 1294,
+        "y": 8757,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 6494,
+        "y": 4060,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 6451,
+        "y": 6530,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 6929,
+        "y": 3942,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 6299,
+        "y": 7038,
+        "points": 16,
+        "radius": 5
+      },
+      {
+        "x": 5145,
+        "y": 7112,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 1236,
+        "y": 8338,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 6110,
+        "y": 6467,
+        "points": 31,
+        "radius": 5
+      },
+      {
+        "x": 8693,
+        "y": 5251,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1810,
+        "y": 8596,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 1942,
+        "y": 8411,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 1904,
+        "y": 8266,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1927,
+        "y": 8121,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 8503,
+        "y": 5599,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 5010,
+        "y": 6421,
+        "points": 30,
+        "radius": 5
+      },
+      {
+        "x": 1820,
+        "y": 8515,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 2048,
+        "y": 8380,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 5644,
+        "y": 6895,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 5192,
+        "y": 6926,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 8402,
+        "y": 5452,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 1973,
+        "y": 8293,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 5221,
+        "y": 7010,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 5592,
+        "y": 6621,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 1948,
+        "y": 8511,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 6571,
+        "y": 6978,
+        "points": 15,
+        "radius": 5
+      },
+      {
+        "x": 6019,
+        "y": 7192,
+        "points": 16,
+        "radius": 5
+      },
+      {
+        "x": 1655,
+        "y": 8112,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 1607,
+        "y": 8131,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8479,
+        "y": 5411,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 8460,
+        "y": 5682,
+        "points": 13,
+        "radius": 5
+      },
+      {
+        "x": 6922,
+        "y": 4042,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 6454,
+        "y": 6482,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 8703,
+        "y": 5576,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6745,
+        "y": 3965,
+        "points": 28,
+        "radius": 5
+      },
+      {
+        "x": 6437,
+        "y": 6662,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 6734,
+        "y": 6601,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 2019,
+        "y": 8198,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 6218,
+        "y": 6659,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 6525,
+        "y": 3853,
+        "points": 30,
+        "radius": 5
+      },
+      {
+        "x": 6332,
+        "y": 3899,
+        "points": 33,
+        "radius": 5
+      },
+      {
+        "x": 8801,
+        "y": 4989,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 5335,
+        "y": 6391,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 6153,
+        "y": 6617,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 6738,
+        "y": 3963,
+        "points": 28,
+        "radius": 5
+      },
+      {
+        "x": 1324,
+        "y": 8467,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 6186,
+        "y": 7100,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 6953,
+        "y": 4022,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 8436,
+        "y": 5320,
+        "points": 11,
+        "radius": 5
+      },
+      {
+        "x": 8743,
+        "y": 5377,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1835,
+        "y": 8606,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 8618,
+        "y": 5099,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 8565,
+        "y": 5512,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 6878,
+        "y": 7145,
+        "points": 13,
+        "radius": 5
+      },
+      {
+        "x": 1462,
+        "y": 8753,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 6999,
+        "y": 4125,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 8587,
+        "y": 5068,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 6742,
+        "y": 7090,
+        "points": 15,
+        "radius": 5
+      },
+      {
+        "x": 1619,
+        "y": 8747,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 6872,
+        "y": 3971,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 6818,
+        "y": 3906,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 7016,
+        "y": 3817,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 6218,
+        "y": 6667,
+        "points": 28,
+        "radius": 5
+      },
+      {
+        "x": 7185,
+        "y": 3891,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 1208,
+        "y": 8769,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 5016,
+        "y": 6893,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 8560,
+        "y": 5154,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 6894,
+        "y": 6981,
+        "points": 15,
+        "radius": 5
+      },
+      {
+        "x": 1446,
+        "y": 8355,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 5547,
+        "y": 6434,
+        "points": 32,
+        "radius": 5
+      },
+      {
+        "x": 7132,
+        "y": 4125,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 8728,
+        "y": 5382,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 5614,
+        "y": 7190,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 6468,
+        "y": 3474,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 6197,
+        "y": 6944,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 6210,
+        "y": 6996,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 2023,
+        "y": 8623,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6534,
+        "y": 6453,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 1684,
+        "y": 8449,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6831,
+        "y": 3551,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 6889,
+        "y": 3384,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 1657,
+        "y": 8788,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 4900,
+        "y": 6911,
+        "points": 28,
+        "radius": 5
+      },
+      {
+        "x": 1782,
+        "y": 8377,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 6757,
+        "y": 3839,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 7121,
+        "y": 4176,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 1602,
+        "y": 8633,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 5659,
+        "y": 6895,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 8748,
+        "y": 5447,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 5663,
+        "y": 7071,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 8430,
+        "y": 5423,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 8594,
+        "y": 5534,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 6976,
+        "y": 4012,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 1887,
+        "y": 8183,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1572,
+        "y": 8369,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 5047,
+        "y": 6723,
+        "points": 27,
+        "radius": 5
+      },
+      {
+        "x": 1697,
+        "y": 8660,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 8855,
+        "y": 5239,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 6667,
+        "y": 3656,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 6968,
+        "y": 3626,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 2095,
+        "y": 8113,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8719,
+        "y": 5503,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 2075,
+        "y": 8185,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1671,
+        "y": 8315,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 5399,
+        "y": 6348,
+        "points": 31,
+        "radius": 5
+      },
+      {
+        "x": 8577,
+        "y": 5482,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 6731,
+        "y": 7117,
+        "points": 16,
+        "radius": 5
+      },
+      {
+        "x": 6397,
+        "y": 7126,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 1449,
+        "y": 8767,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 6832,
+        "y": 7160,
+        "points": 14,
+        "radius": 5
+      },
+      {
+        "x": 4899,
+        "y": 6367,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 8829,
+        "y": 5579,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 1432,
+        "y": 8646,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 8625,
+        "y": 5219,
+        "points": 10,
+        "radius": 5
+      },
+      {
+        "x": 6131,
+        "y": 7137,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 5194,
+        "y": 7167,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 6197,
+        "y": 6546,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 8446,
+        "y": 5363,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 6647,
+        "y": 6431,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 6975,
+        "y": 3763,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 5417,
+        "y": 6828,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 2094,
+        "y": 8857,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 1664,
+        "y": 8611,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 6660,
+        "y": 6558,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 6366,
+        "y": 6666,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 8711,
+        "y": 5479,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8827,
+        "y": 5058,
+        "points": 10,
+        "radius": 5
+      },
+      {
+        "x": 1988,
+        "y": 8215,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 6504,
+        "y": 6660,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 6482,
+        "y": 3344,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 1355,
+        "y": 8849,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 6551,
+        "y": 6620,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 6104,
+        "y": 6867,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 1842,
+        "y": 8762,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 1687,
+        "y": 8139,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 8523,
+        "y": 5151,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 6543,
+        "y": 3307,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 8469,
+        "y": 5314,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 6100,
+        "y": 6832,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 1256,
+        "y": 8262,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6610,
+        "y": 6590,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 1352,
+        "y": 8881,
+        "points": 2,
+        "radius": 5
+      },
+      {
+        "x": 6655,
+        "y": 6354,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 6755,
+        "y": 6774,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 5174,
+        "y": 6562,
+        "points": 30,
+        "radius": 5
+      },
+      {
+        "x": 1907,
+        "y": 8635,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6461,
+        "y": 6861,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 6891,
+        "y": 4055,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 8570,
+        "y": 5641,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 8526,
+        "y": 5610,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 5503,
+        "y": 6456,
+        "points": 29,
+        "radius": 5
+      },
+      {
+        "x": 1352,
+        "y": 8829,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 1435,
+        "y": 8486,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 1889,
+        "y": 8787,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 5686,
+        "y": 6990,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 6572,
+        "y": 4099,
+        "points": 30,
+        "radius": 5
+      },
+      {
+        "x": 6756,
+        "y": 4177,
+        "points": 29,
+        "radius": 5
+      },
+      {
+        "x": 6252,
+        "y": 7197,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 1963,
+        "y": 8132,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8775,
+        "y": 5439,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1705,
+        "y": 8868,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 6459,
+        "y": 6874,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 5014,
+        "y": 6578,
+        "points": 27,
+        "radius": 5
+      },
+      {
+        "x": 1856,
+        "y": 8523,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 5378,
+        "y": 6814,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 7093,
+        "y": 3869,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 6337,
+        "y": 6956,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 8860,
+        "y": 5248,
+        "points": 10,
+        "radius": 5
+      },
+      {
+        "x": 5678,
+        "y": 7084,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 1858,
+        "y": 8547,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 7079,
+        "y": 3770,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 6511,
+        "y": 6757,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 6637,
+        "y": 6530,
+        "points": 16,
+        "radius": 5
+      },
+      {
+        "x": 6735,
+        "y": 6832,
+        "points": 15,
+        "radius": 5
+      },
+      {
+        "x": 5562,
+        "y": 6888,
+        "points": 27,
+        "radius": 5
+      },
+      {
+        "x": 1489,
+        "y": 8631,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 1683,
+        "y": 8549,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 8712,
+        "y": 5698,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 7189,
+        "y": 4012,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 1893,
+        "y": 8380,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6751,
+        "y": 3604,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 8484,
+        "y": 5673,
+        "points": 12,
+        "radius": 5
+      },
+      {
+        "x": 1612,
+        "y": 8720,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 1583,
+        "y": 8883,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6915,
+        "y": 4158,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 6793,
+        "y": 4088,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 8786,
+        "y": 5464,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 6090,
+        "y": 6519,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 6579,
+        "y": 3326,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 6658,
+        "y": 7130,
+        "points": 16,
+        "radius": 5
+      },
+      {
+        "x": 1651,
+        "y": 8765,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 2002,
+        "y": 8598,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 5044,
+        "y": 6561,
+        "points": 27,
+        "radius": 5
+      },
+      {
+        "x": 6393,
+        "y": 3372,
+        "points": 30,
+        "radius": 5
+      },
+      {
+        "x": 8591,
+        "y": 5677,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 1414,
+        "y": 8830,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 6758,
+        "y": 4193,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 4822,
+        "y": 6732,
+        "points": 28,
+        "radius": 5
+      },
+      {
+        "x": 8839,
+        "y": 5496,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 8797,
+        "y": 5141,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 1603,
+        "y": 8532,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 6254,
+        "y": 7010,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 8677,
+        "y": 5332,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8448,
+        "y": 5665,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 1355,
+        "y": 8660,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 6147,
+        "y": 6338,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 7031,
+        "y": 3902,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 1798,
+        "y": 8776,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 5392,
+        "y": 6424,
+        "points": 30,
+        "radius": 5
+      },
+      {
+        "x": 2086,
+        "y": 8139,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 8897,
+        "y": 5650,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 5626,
+        "y": 6949,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 6923,
+        "y": 3854,
+        "points": 32,
+        "radius": 5
+      },
+      {
+        "x": 6061,
+        "y": 6978,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 6782,
+        "y": 7012,
+        "points": 15,
+        "radius": 5
+      },
+      {
+        "x": 8878,
+        "y": 5254,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8522,
+        "y": 5463,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 6426,
+        "y": 7032,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 8745,
+        "y": 5365,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6605,
+        "y": 6930,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 1529,
+        "y": 8326,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 5278,
+        "y": 6379,
+        "points": 37,
+        "radius": 5
+      },
+      {
+        "x": 6184,
+        "y": 6829,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 6790,
+        "y": 7183,
+        "points": 13,
+        "radius": 5
+      },
+      {
+        "x": 1834,
+        "y": 8199,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8627,
+        "y": 5487,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 8794,
+        "y": 5401,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1892,
+        "y": 8807,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 5222,
+        "y": 6375,
+        "points": 31,
+        "radius": 5
+      },
+      {
+        "x": 1861,
+        "y": 8573,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 2093,
+        "y": 8238,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 8469,
+        "y": 5420,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 5453,
+        "y": 6761,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 5590,
+        "y": 6732,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 8759,
+        "y": 5486,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1408,
+        "y": 8602,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 1661,
+        "y": 8151,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 8699,
+        "y": 5574,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6598,
+        "y": 7059,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 6394,
+        "y": 4091,
+        "points": 27,
+        "radius": 5
+      },
+      {
+        "x": 1511,
+        "y": 8394,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 1694,
+        "y": 8766,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 6587,
+        "y": 6553,
+        "points": 16,
+        "radius": 5
+      },
+      {
+        "x": 1912,
+        "y": 8174,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 1897,
+        "y": 8898,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 8402,
+        "y": 5001,
+        "points": 11,
+        "radius": 5
+      },
+      {
+        "x": 6402,
+        "y": 7156,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 6362,
+        "y": 3908,
+        "points": 27,
+        "radius": 5
+      },
+      {
+        "x": 6595,
+        "y": 3305,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 8468,
+        "y": 5196,
+        "points": 11,
+        "radius": 5
+      },
+      {
+        "x": 8581,
+        "y": 5071,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 6490,
+        "y": 7136,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 1601,
+        "y": 8659,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 6496,
+        "y": 7194,
+        "points": 14,
+        "radius": 5
+      },
+      {
+        "x": 6014,
+        "y": 7070,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 5610,
+        "y": 6490,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 6832,
+        "y": 3561,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 8430,
+        "y": 5177,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 8863,
+        "y": 5025,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 8499,
+        "y": 5466,
+        "points": 13,
+        "radius": 5
+      },
+      {
+        "x": 7084,
+        "y": 4185,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 6864,
+        "y": 6997,
+        "points": 16,
+        "radius": 5
+      },
+      {
+        "x": 1219,
+        "y": 8125,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 1942,
+        "y": 8747,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 1696,
+        "y": 8765,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 8796,
+        "y": 5567,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6784,
+        "y": 3936,
+        "points": 34,
+        "radius": 5
+      },
+      {
+        "x": 1963,
+        "y": 8208,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 8887,
+        "y": 5030,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 5468,
+        "y": 6490,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 5253,
+        "y": 6935,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 8798,
+        "y": 5663,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 2000,
+        "y": 8292,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 6167,
+        "y": 6487,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 6216,
+        "y": 7003,
+        "points": 16,
+        "radius": 5
+      },
+      {
+        "x": 1516,
+        "y": 8869,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 1513,
+        "y": 8765,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 1326,
+        "y": 8490,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 1921,
+        "y": 8768,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6841,
+        "y": 3811,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 5382,
+        "y": 6867,
+        "points": 30,
+        "radius": 5
+      },
+      {
+        "x": 6845,
+        "y": 4185,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 8681,
+        "y": 5313,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 2005,
+        "y": 8718,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6308,
+        "y": 6759,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 1445,
+        "y": 8474,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 8667,
+        "y": 5305,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 6379,
+        "y": 3307,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 5233,
+        "y": 6540,
+        "points": 30,
+        "radius": 5
+      },
+      {
+        "x": 8729,
+        "y": 5687,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 4980,
+        "y": 6887,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 8706,
+        "y": 5685,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6894,
+        "y": 4171,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 8896,
+        "y": 5065,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1995,
+        "y": 8279,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 6753,
+        "y": 7134,
+        "points": 14,
+        "radius": 5
+      },
+      {
+        "x": 8565,
+        "y": 5652,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 6332,
+        "y": 3552,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 1934,
+        "y": 8575,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 6760,
+        "y": 6726,
+        "points": 16,
+        "radius": 5
+      },
+      {
+        "x": 1984,
+        "y": 8472,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 8781,
+        "y": 5529,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 1353,
+        "y": 8236,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 1761,
+        "y": 8284,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 1260,
+        "y": 8710,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 5189,
+        "y": 7025,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 5310,
+        "y": 6517,
+        "points": 27,
+        "radius": 5
+      },
+      {
+        "x": 1708,
+        "y": 8758,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 8763,
+        "y": 5281,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8853,
+        "y": 5513,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 5596,
+        "y": 7048,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 5609,
+        "y": 6725,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 4824,
+        "y": 6907,
+        "points": 27,
+        "radius": 5
+      },
+      {
+        "x": 1213,
+        "y": 8111,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 8502,
+        "y": 5234,
+        "points": 10,
+        "radius": 5
+      },
+      {
+        "x": 1935,
+        "y": 8401,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8515,
+        "y": 4872,
+        "points": 10,
+        "radius": 5
+      },
+      {
+        "x": 6985,
+        "y": 3360,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 1247,
+        "y": 8264,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 1966,
+        "y": 8568,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 1578,
+        "y": 8750,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 5253,
+        "y": 7164,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 1272,
+        "y": 8197,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6522,
+        "y": 6526,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 6000,
+        "y": 7001,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 5254,
+        "y": 7079,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 6484,
+        "y": 7122,
+        "points": 15,
+        "radius": 5
+      },
+      {
+        "x": 1507,
+        "y": 8267,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 7064,
+        "y": 4144,
+        "points": 20,
+        "radius": 5
+      },
+      {
+        "x": 2026,
+        "y": 8392,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 1704,
+        "y": 8170,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 8854,
+        "y": 5637,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 8488,
+        "y": 5353,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 2051,
+        "y": 8267,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6153,
+        "y": 6343,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 6837,
+        "y": 6585,
+        "points": 15,
+        "radius": 5
+      },
+      {
+        "x": 1807,
+        "y": 8686,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 1904,
+        "y": 8349,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6510,
+        "y": 3646,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 6799,
+        "y": 3526,
+        "points": 30,
+        "radius": 5
+      },
+      {
+        "x": 8650,
+        "y": 5137,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 2099,
+        "y": 8753,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 5391,
+        "y": 6519,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 2072,
+        "y": 8649,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6729,
+        "y": 7191,
+        "points": 13,
+        "radius": 5
+      },
+      {
+        "x": 5515,
+        "y": 6700,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 6889,
+        "y": 6423,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 5277,
+        "y": 7010,
+        "points": 24,
+        "radius": 5
+      },
+      {
+        "x": 6484,
+        "y": 3962,
+        "points": 28,
+        "radius": 5
+      },
+      {
+        "x": 8570,
+        "y": 5255,
+        "points": 8,
+        "radius": 5
+      },
+      {
+        "x": 8817,
+        "y": 5394,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 1770,
+        "y": 8655,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6433,
+        "y": 3999,
+        "points": 31,
+        "radius": 5
+      },
+      {
+        "x": 7020,
+        "y": 4111,
+        "points": 25,
+        "radius": 5
+      },
+      {
+        "x": 1610,
+        "y": 8233,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 6507,
+        "y": 6590,
+        "points": 18,
+        "radius": 5
+      },
+      {
+        "x": 5126,
+        "y": 6637,
+        "points": 28,
+        "radius": 5
+      },
+      {
+        "x": 7181,
+        "y": 3880,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 1563,
+        "y": 8273,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 7107,
+        "y": 3409,
+        "points": 23,
+        "radius": 5
+      },
+      {
+        "x": 1930,
+        "y": 8322,
+        "points": 6,
+        "radius": 5
+      },
+      {
+        "x": 1512,
+        "y": 8480,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 6568,
+        "y": 6979,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 1412,
+        "y": 8367,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 1385,
+        "y": 8625,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 6572,
+        "y": 3588,
+        "points": 34,
+        "radius": 5
+      },
+      {
+        "x": 5539,
+        "y": 6956,
+        "points": 21,
+        "radius": 5
+      },
+      {
+        "x": 8625,
+        "y": 4871,
+        "points": 9,
+        "radius": 5
+      },
+      {
+        "x": 1489,
+        "y": 8715,
+        "points": 4,
+        "radius": 5
+      },
+      {
+        "x": 1689,
+        "y": 8792,
+        "points": 3,
+        "radius": 5
+      },
+      {
+        "x": 1278,
+        "y": 8257,
+        "points": 5,
+        "radius": 5
+      },
+      {
+        "x": 6060,
+        "y": 7192,
+        "points": 19,
+        "radius": 5
+      },
+      {
+        "x": 6440,
+        "y": 6601,
+        "points": 22,
+        "radius": 5
+      },
+      {
+        "x": 6541,
+        "y": 7015,
+        "points": 17,
+        "radius": 5
+      },
+      {
+        "x": 6085,
+        "y": 6432,
+        "points": 26,
+        "radius": 5
+      },
+      {
+        "x": 1931,
+        "y": 8273,
+        "points": 7,
+        "radius": 5
+      },
+      {
+        "x": 6384,
+        "y": 6638,
+        "points": 19,
+        "radius": 5
+      }
+    ],
+    "maxSpeed": 110.0,
+    "maxAccel": 10.0,
+    "attackRange": 150.0,
+    "attackCooldownMs": 10000,
+    "attackDamage": 30,
+    "attackExplosionRadius": 30.0,
+    "reviveTimeoutSec": 2,
+    "shieldTimeMs": 5000,
+    "shieldCooldownMs": 40000,
+    "transportRadius": 5,
+    "errors": []
+  }
