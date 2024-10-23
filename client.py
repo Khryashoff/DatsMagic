@@ -4,6 +4,7 @@ import time
 import _socket
 import requests
 
+from logger import log
 from dotenv import load_dotenv
 from motion_control import control_transports
 from map_render import get_map, draw_transport_actions
@@ -224,6 +225,8 @@ def main():
         while True:
             start = time.time()
             response = fetch_map_data(transports)
+
+            log(response, client)
 
             # Установка постоянных опций для клиента
             client.set_options(permanent=True)
